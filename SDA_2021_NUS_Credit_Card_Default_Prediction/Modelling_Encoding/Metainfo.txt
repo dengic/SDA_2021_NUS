@@ -1,5 +1,5 @@
 
-Name of Quantlet: 'Modelling_Encoding' 
+Name of Quantlet: 'Modelling_Encoding_Target' 
 
 Published in: 'SDA_2021_NUS_Credit_Card_Default_Prediction'
 

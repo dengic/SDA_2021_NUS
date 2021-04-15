@@ -1,5 +1,5 @@
 
-Name of Quantlet: 'SDA_2021_NUS_Credit_Card_Default_Prediction 
+Name of Quantlet: 'SDA_2021_NUS_Credit_Card_Default_Prediction' 
 
 Published in: 'SDA_2021_NUS'
 
